@@ -1,0 +1,5 @@
+# Arona theme bundle patch: registers the theme row in a profile.
+# Toggle this row on the bundle page (sidebar -> Plugins).
+- insert:
+    - id: ui-theme-bluearchive
+      name: '@dsh-external/dsh-client-ui-theme-bluearchive'

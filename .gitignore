@@ -1,0 +1,16 @@
+# 依赖与二进制 —— 可由 deploy.ps1 / npm install 恢复，不进版本库
+node_modules/
+
+# 构建与分发产物
+dist/
+*.tgz
+
+# 日志与临时文件
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
