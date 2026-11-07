@@ -26,6 +26,10 @@
   },
   "files": [
     "lib/",
+    "assets/startup-animation.html",
+    "assets/2.png",
+    "assets/IMG_20261106_174813.png",
+    "assets/BA-Pointer-main/BA.Pointer/Assets/PCIcon_MousePoint_24.png",
     "cordis.patch.yml",
     "package.json",
     "README.md",
